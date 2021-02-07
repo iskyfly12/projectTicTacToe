@@ -20,6 +20,9 @@ This is the repository of a Unity3D game made as object of study.
 You can see a running demo of the project in [this video](https://www.youtube.com/watch?v=Q7hHQqBgAuQ&feature=youtu.be).
 <br> <p align="center"> [![Watch the video](https://media.giphy.com/media/Kkj8TYriUW60h0321r/giphy.gif)](https://www.youtube.com/watch?v=Q7hHQqBgAuQ&feature=youtu.be) </p>
 
+### Game Download
+You can download the game of this project [here](https://iskyfly.itch.io/project-tictactoe).
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
