@@ -1,4 +1,3 @@
-# projectTicTacToe
 <p align="center">
     <img width="200px" src="https://static.wixstatic.com/media/33880b_8a58db8670db482ebef1b9218daa1f18~mv2.png/v1/fill/w_419,h_420,al_c,lg_1,q_85/Sem%20T%C3%ADtulo-21.webp">    
 </p>
